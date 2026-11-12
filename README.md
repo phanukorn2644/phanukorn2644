@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Phanu 👋</h1>
+<h1 align="center">Hi, I'm Phanukorn 👋</h1>
 <p align="center">
   <b>Full-stack Developer @ i-bitz Co., Ltd.</b><br/>
   Building geospatial & enterprise web platforms — from ClickHouse to the map on your screen 🗺️
@@ -12,7 +12,6 @@
 - ⚡ Love end-to-end type safety
 - 🗺️ Into high-performance web mapping
 - 🎤 Speaker at **FOSS4G 2026 Hiroshima**
-- 🧑‍🏫 Enjoy teaching & mentoring developers
 - 💬 Speaks Thai 🇹🇭 & English 🇬🇧
 
 ---
