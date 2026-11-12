@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Phanukorn 👋</h1>
 <p align="center">
   <b>Full-stack Developer @ i-bitz Co., Ltd.</b><br/>
-  Building geospatial & enterprise web platforms — from ClickHouse to the map on your screen 🗺️
+  Building geospatial & enterprise web platforms 
 </p>
 
 ---
