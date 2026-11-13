@@ -8,9 +8,8 @@
 
 ### 🧭 About me
 
-- 🌏 Full-stack developer focused on **geospatial** and **enterprise web applications**
+- 🌏 Full-stack developer focused on **geospatial** and **web applications**
 - ⚡ Love end-to-end type safety
-- 🗺️ Into high-performance web mapping
 - 🎤 Speaker at **FOSS4G 2026 Hiroshima**
 
 ---
